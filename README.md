@@ -4,7 +4,7 @@
 
 Flutter Admin 是一个基于 Flutter 框架构建的跨平台后台管理系统。该系统旨在为企业和开发者提供一个简单易用、高效且可扩展的后台管理解决方案。无论是移动设备还是桌面端，Flutter Admin 都能提供一致的用户体验。
 ![Preview](/docs/img_1.png)
-![Preview](/docs/img_1.png)
+![Preview](/docs/img_2.png)
 
 ## 功能特点
 
